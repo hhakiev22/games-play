@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import gamesAPI from "../../api/games-api";
-import useParams from "react-router-dom";
 import commentsApi from "../../api/comments-api";
+import { useParams } from "react-router-dom";
 
 export default function GameDetails() {
   const [game, setGame] = useState({});
