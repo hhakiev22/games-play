@@ -41,3 +41,25 @@ SoftUni React Course Project
 - [x] Read comments from server
 - [x] Add comments in the component
 - [x] Clear form
+
+## 6.API Hooks
+
+- [ ] Form Hook
+- [ ] GameAPI Hooks
+- [ ] Comment Hooks
+
+## 7.Authentication
+
+- [ ] Auth API
+- [ ] Auth API Hook
+- [ ] Auth state & context
+- [ ] Login
+- [ ] Register
+- [ ] Logout
+
+## 8.UI Implementation
+
+- [ ] Dynamic Navigation
+- [ ] Create game
+  - [ ] API Function
+  - [ ] Hook
