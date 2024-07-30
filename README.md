@@ -44,7 +44,7 @@ SoftUni React Course Project
 
 ## 6.API Hooks
 
-- [ ] Form Hook
+- [x] Form Hook
 - [ ] GameAPI Hooks
 - [ ] Comment Hooks
 
@@ -63,3 +63,4 @@ SoftUni React Course Project
 - [ ] Create game
   - [ ] API Function
   - [ ] Hook
+- [ ] Latest games
