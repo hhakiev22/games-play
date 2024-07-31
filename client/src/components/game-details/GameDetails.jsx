@@ -1,7 +1,7 @@
 import { useState } from "react";
-import commentsApi from "../../api/comments-api";
 import { useParams } from "react-router-dom";
-import { useGetOneGames } from "../hooks/useGames";
+import commentsApi from "../../api/comments-api";
+import { useGetOneGames } from "../../hooks/useGames";
 
 export default function GameDetails() {
   const { gameId } = useParams();

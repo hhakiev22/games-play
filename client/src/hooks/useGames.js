@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import gamesAPI from "../../api/games-api";
+import gamesAPI from "../api/games-api";
 
 export function useGetAllGames() {
   const [games, setGames] = useState([]);
