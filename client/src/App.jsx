@@ -6,7 +6,7 @@ import Register from "./components/register/Register";
 import GameList from "./components/game-list/GameList";
 import GameCreate from "./components/game-create/GameCreate";
 import GameDetails from "./components/game-details/GameDetails.jsx";
-import { AuthContextProvider } from "./contexts/AuthContext.js";
+import { AuthContextProvider } from "./contexts/AuthContext.jsx";
 
 function App() {
   return (
